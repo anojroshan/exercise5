@@ -1,0 +1,26 @@
+.entmark ul li{
+    list-style: none;
+    display: inline-block;
+    line-height: 80px;
+    padding-top: 10px;
+}
+
+
+
+  
+
+
+
+
+label{
+    position: relative;
+    color: black;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 5px;
+   padding:10px;
+}
+
+
+
